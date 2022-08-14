@@ -16,3 +16,18 @@ The example is for Next.js applications but is similar for any framework
 - [@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer) Wrapper of webpack-bundle-analyzer for Next.js to analyze the current bundle
 
 - [@lhci/cli](https://www.npmjs.com/package/@lhci/cli) CI for lighthouse to apply a performance budget with your current metrics to check
+
+
+<div style="display:flex; align-items:center">
+  <img src="https://github.com/mtorre4580/performance-budget-nextjs/blob/main/lighthouse.png" alt="lighthouse" />
+</div>
+
+
+<div style="display:flex; align-items:center">
+  <img src="https://github.com/mtorre4580/performance-budget-nextjs/blob/main/bundle-analyzer.png" alt="bundle-analyzer" />
+</div>
+
+
+<div style="display:flex; align-items:center">
+  <img src="https://github.com/mtorre4580/performance-budget-nextjs/blob/main/bundle-check.png" alt="bundle-check" />
+</div>
