@@ -1,7 +1,6 @@
 # performance-budget-nextjs
 
-When you start to improve the performance in any application, is very difficult to mantein this values, because new features
-is adding constantly and new packages from npm if you don't have a validation to check the current performance very often, the value is decrease similar when you improve the accessibility, one month later the accessibility decrease.
+When you start to improve the performance in any application, is very difficult to validate this values, because new features is adding constantly and new packages from npm. If you don't have a validation to check the current performance very often, the value is decrease similar when you improve the accessibility, one month later the accessibility decrease
 
 ## How to improve this pain?
 
