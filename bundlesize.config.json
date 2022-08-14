@@ -1,0 +1,19 @@
+{
+  "files": [
+    {
+      "path": ".next/static/**/main-*.js",
+      "maxSize": "30 kB",
+      "compression": "brotli"
+    },
+    {
+      "path": ".next/static/chunks/pages/my-page-*.js",
+      "maxSize": "8 kB",
+      "compression": "brotli"
+    },
+    {
+      "path": ".next/static/chunks/pages/_app-*.js",
+      "maxSize": "65 kB",
+      "compression": "brotli"
+    }
+  ]
+}
