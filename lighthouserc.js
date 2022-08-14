@@ -1,6 +1,6 @@
 // Budget to check the mininum in each step
-const PERFORMANCE = 0.25;
-const ACCESSIBILITY = 0.75;
+const PERFORMANCE = 0.8;
+const ACCESSIBILITY = 0.8;
 const BEST_PRACTICES = 0.8;
 const SEO = 0.8;
 
