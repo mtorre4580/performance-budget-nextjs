@@ -31,3 +31,7 @@ yarn-error.log*
 
 # lighthouse
 .lighthouseci
+
+# locks
+package-lock.json
+yarn.lock
