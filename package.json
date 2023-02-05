@@ -1,5 +1,4 @@
 {
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,6 +8,7 @@
     "lighthouse": "URL='http://localhost:3000/my-page' lhci autorun"
   },
   "author": "mtorre4580@outlook.com",
+  "license": "MIT",
   "dependencies": {
     "next": "^13.1.6",
     "react": "^18.2.0",
