@@ -7,7 +7,7 @@
     "bundle-check": "next build && bundlesize",
     "lighthouse": "URL='http://localhost:3000/my-page' lhci autorun"
   },
-  "author": "mtorre4580@outlook.com",
+  "author": "mtorre4580",
   "license": "MIT",
   "dependencies": {
     "next": "^13.1.6",
